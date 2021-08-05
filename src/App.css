@@ -89,6 +89,6 @@ img{
 
 @media only screen and (max-width: 600px) {
   .search_form{width: 100%;}
-  .search_bar{width:80%}
-  .card{width:40%}
+  .search_bar{width:80%;}
+  .card{width:70%;}
 }
